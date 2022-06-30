@@ -1,2 +1,2 @@
 # alx-low_level_programming
-I'm now a ALX Student, this is my first repository as a full-stack engineer
+This is an alx low level programming assignment readme file
