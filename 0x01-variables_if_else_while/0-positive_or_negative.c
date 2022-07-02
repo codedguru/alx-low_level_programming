@@ -1,9 +1,11 @@
 #include<stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main -> assign a random number to variable n each time it is executed and prints the result */
-
-/* betty style doc for function main goes there */
+/** 
+ * main -> assign a random number to variable n each time it is executed and prints the result 
+ * based a condition
+ * return : always 0
+*/
 int main(void)
 {	
 int n;
@@ -18,5 +20,5 @@ if (n < 0)
 {	
         printf("%d is negative\n", n);
 }
-	return (0);
+return (0);
 }
